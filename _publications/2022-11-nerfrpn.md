@@ -24,7 +24,7 @@ authors:
     link: http://www.cs.ust.hk/~cktang/bio-sketch-review.htm
 links:
   - name: paper
-    link: https://arxiv.org/pdf/2211.11646.pdf
+    link: ./assets/files/paper-nerfrpn.pdf
   - name: video
     link: https://www.youtube.com/watch?v=M8_4Ih1CJjE
 ---
