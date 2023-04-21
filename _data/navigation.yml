@@ -20,8 +20,8 @@ foo:
 
 # main links
 main:
-  - title: "Home"
-    url: /
+  # - title: "Home"
+  #   url: /
   - title: "CV"
     url: /assets/files/cv-20221209.pdf
   # - title: "Robotics & Design"

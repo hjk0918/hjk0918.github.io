@@ -8,21 +8,21 @@
 # remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 theme                    : "minimal-mistakes-jekyll"
 
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abraham Huang's Homepage"
+title                    : "Abraham Junkai Huang"
 title_separator          : "|"
 subtitle                 : 
-name                     : &name "Junkai (Abraham) Huang" # &name is a YAML anchor which can be *referenced later
-description              : &description "A \"visioner\", programmer, robotics enthusiast, movie lover"
+name                     : &name "Abraham Junkai Huang" # &name is a YAML anchor which can be *referenced later
+description              : &description "Senior year undergraduate in The Hong Kong University of Science and Technology."
 url                      : https://hjk0918.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "hjk0918/hjk0918.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Abraham Huang" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : /assets/images/icon_hkust.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : *name # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -98,9 +98,9 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : "Abraham Junkai Huang" # the name under the picture
   avatar           : "/assets/images/Abraham.jpeg"
-  bio              : "A \"visioner\", programmer, robotics enthusiast, movie lover."
+  bio              : *description
   location         : "Hong Kong S.A.R."
   links:
     - label: "Email"
@@ -109,6 +109,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hjk0918"
+    # - label: "CV"
+    #   icon: "fas fa-fw fa-file"
+    #   url: /assets/files/cv-20221209.pdf
     # - label: "Made Mistakes"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://mademistakes.com"

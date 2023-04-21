@@ -62,14 +62,15 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  width: 100%;
+  width: 93%; // change masthead menu width
   clear: both;
+  position: left;
 
   .site-nav {
     margin-left: 0;
 
     @include breakpoint($small) {
-      float: right;
+      float: left;
     }
   }
 
