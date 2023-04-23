@@ -1,5 +1,5 @@
 ---
-title: "Abraham Junkai Huang"
+title: "Junkai Huang"
 permalink: /
 ---
 
