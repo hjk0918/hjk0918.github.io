@@ -3,7 +3,11 @@ title: "Junkai Huang"
 permalink: /
 ---
 
-Hi there! I'm a senior year undergraduate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), majoring in Computer Science & Mathematics. My research interests lie at the intersection of computer vision, deep learning and robotics. I'm currently working on 3D vision research topics regarding Neural Radiance Fields (NeRFs), supervised by Prof. [Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io). 
+Hi there! I will be pursuing my Master's degree in Robotics (MSR) at [Carnegie Mellon University (CMU)](https://www.cmu.edu) starting from 2023 Fall! I received my Bachelor’s degree in Computer Science and Mathematics from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), where I had the honor of working with Prof. [Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io). 
+
+My research interests lie at the intersection of computer vision, deep learning and robotics. I'm currently working on 3D vision research topics regarding the Neural Radiance Fields (NeRFs). As a robotics enthusiast, I'm also passionate about robot manipulation researches. :blue_heart:
+
+Now I'm actively looking for an academic supervisor in CMU. :wave::blush:
 
 ## Publications
 {% include base_path %}
@@ -20,12 +24,18 @@ Hi there! I'm a senior year undergraduate at [The Hong Kong University of Scienc
 </tbody>
 </table>
 
-## Teaching Assistantship
-* Teaching Assistant: **MSBD5016 Deep Learning in Computer Vision**, Spring & Fall 2022, HKUST
-* Teaching Assistant: **COMP4411 Computer Graphics**, Spring 2022, HKUST
-* Student Helper: **COMP2012 Object-Oriented Programming and Data Structures**, Fall 2021, HKUST
+## Awards & Honors
+* HKSAR Government Scholarship Fund - Reaching Out Award, 2023
+* The BDR Scholarship ‐ Academic Performance, 2022
+* HKUST School of Engineering Dean's List, 2019-2023
+* HKUST University's Scholarship, 2019-2023
+
+## Teaching Assistant
+* Teaching Assistant: **MSBD5016 Deep Learning in Computer Vision**, 2022 Spring & Fall, HKUST
+* Teaching Assistant: **COMP4411 Computer Graphics**, 2022 Spring, HKUST
+* Student Helper: **COMP2012 Object-Oriented Programming and Data Structures**, 2021 Fall, HKUST
 
 ## Extra-Curriculum
-* Deputy Head - [HKUST Student Ambassador](https://join.hkust.edu.hk/saprogram) - 2021~present
-* Project Manager, Mechanical Engineer - [HKUST ENTERPRIZE RoboMaster Team](https://www.instagram.com/hkust_enterprize_robomaster/) - 2019~2021
+* Deputy Head of [HKUST Student Ambassador](https://join.hkust.edu.hk/saprogram), 2021-2023
+* Project Manager, Mechanical Engineer in [HKUST ENTERPRIZE RoboMaster Team](https://www.instagram.com/hkust_enterprize_robomaster/), 2019-2021
   

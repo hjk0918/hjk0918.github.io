@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-nerfrpn
 excerpt: 'We propose the first significant object detection framework, NeRF-RPN, which directly operates on NeRF. Given a pre-trained NeRF model, NeRF-RPN aims to detect all bounding boxes of objects in a scene, without rendering the NeRF at any viewpoint.'
 year: 2023
-venue: Computer Vision and Pattern Recognition (CVPR)
+venue: Conference on Computer Vision and Pattern Recognition (CVPR)
 paperurl: https://arxiv.org/abs/2211.11646
 imgurl: 'teaser-nerfrpn.jpeg'
 show: true

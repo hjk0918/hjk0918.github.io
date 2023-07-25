@@ -12,16 +12,16 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junkai Huang"
+title                    : "Junkai Huang's Homepage"
 title_separator          : "|"
 subtitle                 : 
-name                     : &name "Junkai Huang" # &name is a YAML anchor which can be *referenced later
-description              : &description "Senior year undergraduate at The Hong Kong University of Science and Technology."
+name                     : &name "Junkai Huang's Homepage" # &name is a YAML anchor which can be *referenced later
+description              : &description "An upcoming MSR student at Carnegie Mellon University"
 url                      : https://hjk0918.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "hjk0918/hjk0918.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/icon_hkust.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/cmu-seal-r.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : *name # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -99,13 +99,13 @@ analytics:
 # Site Author
 author:
   name             : "Junkai Huang" # the name under the picture
-  avatar           : "/assets/images/Abraham.jpeg"
+  avatar           : "/assets/images/Abraham_2.jpg"
   bio              : *description
   location         : "Hong Kong S.A.R."
   links:
     - label: "Email"
       icon: "fa fa-fw fa-envelope"
-      url: "mailto:jhuangce@connect.ust.hk"
+      url: "mailto:junkaih@andrew.cmu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hjk0918"
