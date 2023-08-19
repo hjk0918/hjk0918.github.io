@@ -3,11 +3,11 @@ title: "Junkai Huang"
 permalink: /
 ---
 
-Hi there! I will be pursuing my Master's degree in Robotics (MSR) at [Carnegie Mellon University (CMU)](https://www.cmu.edu) starting from 2023 Fall! I received my Bachelor’s degree in Computer Science and Mathematics from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), where I had the honor of working with Prof. [Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io). 
+Hi there! I'm an MSR (Master's in Robotics) student at the [Robotics Institute](https://www.ri.cmu.edu) in [Carnegie Mellon University](https://www.cmu.edu). I got my Bachelor’s degree in Computer Science and Mathematics from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), where I had the honor of working with Prof. [Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io). 
 
 My research interests lie at the intersection of computer vision, deep learning and robotics. I'm currently working on 3D vision research topics regarding the Neural Radiance Fields (NeRFs). As a robotics enthusiast, I'm also passionate about robot manipulation researches. :blue_heart:
 
-Now I'm actively looking for an academic supervisor in CMU. :wave::blush:
+Now I'm actively looking for an academic advisor in CMU. :wave::blush:
 
 ## Publications
 {% include base_path %}
