@@ -9,14 +9,14 @@ paperurl: 'https://arxiv.org/abs/2304.04395'
 imgurl: 'teaser-instance_nerf.gif'
 show: true
 authors:
+  - name: Yichen Liu
+    link: https://github.com/lyclyc52
+    star: true
   - name: Benran Hu
     link: https://zymk9.github.io
     star: true
   - name: Junkai Huang
     link: 
-    star: true
-  - name: Yichen Liu
-    link: https://github.com/lyclyc52
     star: true
   - name: Yu-Wing Tai
     link: https://yuwingtai.github.io

@@ -1,3 +1,5 @@
 # hjk0918.github.io
 
-Abraham's personal website.
+Junkai's personal website.
+
+* To serve locally: `bundle exec jekyll serve`

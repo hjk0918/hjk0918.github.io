@@ -16,7 +16,7 @@ title                    : "Junkai Huang's Homepage"
 title_separator          : "|"
 subtitle                 : 
 name                     : &name "Junkai Huang's Homepage" # &name is a YAML anchor which can be *referenced later
-description              : &description "An MSR student at Carnegie Mellon University"
+description              : &description "A MSR student at Carnegie Mellon University"
 url                      : https://hjk0918.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "hjk0918/hjk0918.github.io"
