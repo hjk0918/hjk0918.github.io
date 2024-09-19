@@ -3,9 +3,11 @@ title: "Junkai Huang"
 permalink: /
 ---
 
-Hi there:wave:! I'm a MSR (M.S. in Robotics) student in the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). I'm currently in [The Human Sensing Lab](http://www.humansensing.cs.cmu.edu) fortunately supervised by Prof. [Fernando De la Torre](http://www.cs.cmu.edu/~ftorre/). I received my Bachelor’s degree in *Computer Science* and *Mathematics* with **First Class Honors** from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), where I was honored to work with Prof. [Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io). 
+Hi there:wave:! I'm a MSR student in the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), advised by Prof. [Fernando De la Torre](http://www.cs.cmu.edu/~ftorre/). I received my Bachelor’s degree in *Computer Science* and *Mathematics* with **First Class Honors** from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), where I was honored to work with Prof. [Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io). 
 
 My research interests lie at the intersection of 3D computer vision, deep learning and robotics. I can gain a great sense of satisfaction from building computer vision systems that could solve real-world problems for the general public. :smile:
+
+**I'm looking for a Ph.D position starting from 2025 Fall!**
 
 ## Publications
 {% include base_path %}
