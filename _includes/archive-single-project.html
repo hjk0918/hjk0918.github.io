@@ -23,31 +23,21 @@
     <a href="{{ post.paperurl }}" target="_blank"> 
       <strong>{{post.title}}</strong>
     </a>
+
     <br>
-    {% for author in post.authors %}
-      {% if author.link.size > 0  %}
-        <a href="{{author.link}}" target="_blank">{{author.name}}</a>{% if author.star %}*{% endif %},
-      {% elsif author.name == "Junkai Huang*"  %}
-        <strong>{{author.name}}</strong>{% if author.star %}*{% endif %},
-        {% elsif author.name == "Junkai Huang"  %}
-        <strong>{{author.name}}</strong>{% if author.star %}*{% endif %},
-      {% else %}
-        {{author.name}}{% if author.star %}*{% endif %},
-      {% endif %}
-    {% endfor %}
+
+    <em>{{post.year}}</em>
     
     <br>
-    <em>{{post.venue}}, {{post.year}}</em>
-
+    
+    {{post.description}}
+    
     <br>
+    
     {% for link in post.links %}
-      | <a href="{{link.link}}" target="_blank"> {{link.name}}</a> 
+      | <a href="{{link.link}}" target="_blank">{{link.name}}</a> 
     {% endfor %}
 
-    <!-- <br>
-    <div style="padding-top:4px">
-      <p>{{post.excerpt}}</p>
-    </div> -->
   </td>
 </tr>
 

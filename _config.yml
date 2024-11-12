@@ -109,6 +109,9 @@ author:
     - label: "Google Scholar"
       icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9-cpruYAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/junkaih/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hjk0918"
@@ -216,6 +219,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -280,6 +286,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true

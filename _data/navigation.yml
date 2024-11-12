@@ -22,8 +22,8 @@ foo:
 main:
   # - title: "Home"
   #   url: /
-  - title: "CV"
-    url: /assets/files/cv-20240919.pdf
+  - title: "Résumé"
+    url: /assets/files/Junkai_Huang_resume.pdf
   # - title: "Robotics & Design"
   #   url: /robot-and-design/
 # main:

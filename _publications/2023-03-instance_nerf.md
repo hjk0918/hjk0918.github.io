@@ -9,15 +9,12 @@ paperurl: 'https://arxiv.org/abs/2304.04395'
 imgurl: 'teaser-instance_nerf.gif'
 show: true
 authors:
-  - name: Yichen Liu
+  - name: Yichen Liu*
     link: https://github.com/lyclyc52
-    star: true
-  - name: Benran Hu
+  - name: Benran Hu*
     link: https://zymk9.github.io
-    star: true
-  - name: Junkai Huang
+  - name: Junkai Huang*
     link: 
-    star: true
   - name: Yu-Wing Tai
     link: https://yuwingtai.github.io
   - name: Chi-Keung Tang
@@ -27,4 +24,6 @@ links:
     link: https://arxiv.org/pdf/2304.04395.pdf
   - name: video
     link: https://www.youtube.com/watch?v=wW9Bme73coI
+  - name: code
+    link: https://github.com/lyclyc52/Instance_NeRF
 ---

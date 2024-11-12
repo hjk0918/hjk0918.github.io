@@ -9,15 +9,12 @@ paperurl: https://arxiv.org/abs/2211.11646
 imgurl: 'teaser-nerfrpn.jpeg'
 show: true
 authors:
-  - name: Benran Hu
+  - name: Benran Hu*
     link: https://zymk9.github.io
-    star: true
-  - name: Junkai Huang
+  - name: Junkai Huang*
     link: 
-    star: true
-  - name: Yichen Liu
+  - name: Yichen Liu*
     link: https://github.com/lyclyc52
-    star: true
   - name: Yu-Wing Tai
     link: https://yuwingtai.github.io
   - name: Chi-Keung Tang
