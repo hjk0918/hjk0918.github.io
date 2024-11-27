@@ -6,7 +6,7 @@ description: 'We are developing a new 3D gaussian splatting based dynamic 3D rec
 year: "Fall 2023 - Present"
 # paperurl: 'https://arxiv.org/abs/2304.04395'
 imgurl: 'teaser-dynamic-3dgs.gif'
-show: true
+show: false
 # links:
 #   - name: paper
 #     link: https://arxiv.org/pdf/2304.04395.pdf
