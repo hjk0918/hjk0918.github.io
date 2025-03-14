@@ -7,7 +7,7 @@ Hi there:wave:! I'm a MSR student in the [Robotics Institute](https://www.ri.cmu
 
 My research interests lie at the intersection of 3D computer vision, deep learning and robotics. I'm particularly interested in 3D understanding & reconstruction for robotics applications.  
 
-**I'm looking for a Ph.D position starting from 2025 Fall!**
+**I'm looking for a full-time MLE position in the US, starting from June 2025!**
 
 ## Publications
 {% include base_path %}
